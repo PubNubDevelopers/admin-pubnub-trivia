@@ -1,12 +1,12 @@
 var pubnub;
 
-const get_answers_url = 'https://pubsub.pubnub.com/v1/blocks/sub-key/sub-c-6a727412-91c6-11e8-b36b-922642fc525d/getAnswers';
+const get_answers_url = 'https://pubsub.pubnub.com/v1/blocks/sub-key/sub-c-aba65a72-1937-11e9-b43f-7a31102fe3bb/getAnswers';
 
-const subscribe_key = "sub-c-6a727412-91c6-11e8-b36b-922642fc525d";
+const subscribe_key = "sub-c-aba65a72-1937-11e9-b43f-7a31102fe3bb";
 
-const publish_key = "pub-c-e8c60862-b990-42c1-add2-49acc66f1b4c";
+const publish_key = "pub-c-1ce0e108-3ae2-46f6-9ee7-97bcd7796c33";
 
-const secret_key = "sec-c-MjQ1YjQ3YjAtNjE0NC00MmZlLTliY2EtZGRkOTVkNGZmNmQy";
+const secret_key = "sec-c-ODk4ZGFmYjUtZTg5ZC00ZWQwLTllNjMtY2U5NDc5MDNhZmJk";
 
 var jsonReqOptions = {
     "body": {
